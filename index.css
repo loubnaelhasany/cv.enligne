@@ -1,0 +1,55 @@
+body {
+    font-family:'Segoe UI', 'Arial', 'Arial';
+    
+}
+
+header {
+    height: 150px;
+    padding-top: 20px;
+    background-color: hsl(174, 71%, 18%); 
+    margin-bottom: 3rem;
+}
+
+.photo {
+    margin-left: 10%;
+    border-radius: 10%;
+    width: 120px;
+    height: 140px;
+    overflow: hidden;
+}
+.des{
+    margin-left: 20%;
+    margin-top: -8%;
+}   
+h1{
+    color: #79c19f;
+    font-weight: bold;
+    letter-spacing: .2rem;
+    font-size:25px;
+}
+h3
+{
+    margin-left: 10%;
+    color: #79c19f;
+    font-size: 18px;
+}
+hr.light{
+    color: hsl(174, 71%, 18%);
+    border-top: 2px solid;
+    width: 85%;
+    margin-bottom: 2rem;
+    margin-top: -1rem;
+}
+
+.skills {
+    padding: 0px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+footer {
+    text-align: center;
+}
+#titre2
+{
+    color:#92d7b7;
+}
